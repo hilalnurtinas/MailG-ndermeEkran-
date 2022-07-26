@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.btn-block{
+    margin-top: 15px;
+}
+.col-md-3 {
+    margin-top: 15px;
+}
+
+.panel-default{
+    margin: 0 25px 25px 25px;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+.btn-default {
+    background-color: #f8f9fa;
+    border-color: #ddd;
+    color: #444;
+}
